@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ReflectionHomeTask\ReflectionHomeTask\obj\Debug\net6.0\ReflectionHomeTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ReflectionHomeTask\ReflectionHomeTask\obj\Debug\net6.0\ReflectionHomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ReflectionHomeTask\ReflectionHomeTask\obj\Debug\net6.0\ReflectionHomeTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ReflectionHomeTask\ReflectionHomeTask\obj\Debug\net6.0\ReflectionHomeTask.AssemblyInfo.cs
+C:\Users\User\source\repos\ReflectionHomeTask\ReflectionHomeTask\obj\Debug\net6.0\ReflectionHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ReflectionHomeTask\ReflectionHomeTask\bin\Debug\net6.0\ReflectionHomeTask.exe
+C:\Users\User\source\repos\ReflectionHomeTask\ReflectionHomeTask\bin\Debug\net6.0\ReflectionHomeTask.deps.json
+C:\Users\User\source\repos\ReflectionHomeTask\ReflectionHomeTask\bin\Debug\net6.0\ReflectionHomeTask.runtimeconfig.json
+C:\Users\User\source\repos\ReflectionHomeTask\ReflectionHomeTask\bin\Debug\net6.0\ReflectionHomeTask.dll
+C:\Users\User\source\repos\ReflectionHomeTask\ReflectionHomeTask\bin\Debug\net6.0\ReflectionHomeTask.pdb
+C:\Users\User\source\repos\ReflectionHomeTask\ReflectionHomeTask\obj\Debug\net6.0\ReflectionHomeTask.dll
+C:\Users\User\source\repos\ReflectionHomeTask\ReflectionHomeTask\obj\Debug\net6.0\refint\ReflectionHomeTask.dll
+C:\Users\User\source\repos\ReflectionHomeTask\ReflectionHomeTask\obj\Debug\net6.0\ReflectionHomeTask.pdb
+C:\Users\User\source\repos\ReflectionHomeTask\ReflectionHomeTask\obj\Debug\net6.0\ReflectionHomeTask.genruntimeconfig.cache
+C:\Users\User\source\repos\ReflectionHomeTask\ReflectionHomeTask\obj\Debug\net6.0\ref\ReflectionHomeTask.dll
